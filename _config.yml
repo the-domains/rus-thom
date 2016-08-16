@@ -1,16 +1,16 @@
-typography_spectrum: 0.209610175807029
+typography_spectrum: 0.15157715394161642
 color:
-  brandStrength: 0.3969545995350927
-  lightness: 0.9244261356070638
-  saturation: 0.4598203902132809
-  rhythmicContrast: 0.598863031482324
+  brandStrength: 0.7558900532312691
+  lightness: 0.7364602573215961
+  saturation: 0.4049720067996532
+  rhythmicContrast: 0.7803795689251274
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-layout_spectrum: 0.46856194315478206
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+layout_spectrum: 0.10538355819880962
 name: Rus Thom
 title: Design for
 description: innovation
